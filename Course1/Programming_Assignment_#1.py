@@ -1,7 +1,6 @@
 a = 5698452856984528
 b = 5698452856984528
 
-
 def karatsuba(m, n, leng):
     if leng == 1:
         return m * n
