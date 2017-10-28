@@ -1,3 +1,5 @@
+""" Karatsuba multiplication algorithm """
+
 a = 5698452856984528
 b = 5698452856984528
 
