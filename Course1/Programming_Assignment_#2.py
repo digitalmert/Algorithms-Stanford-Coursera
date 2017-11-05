@@ -1,4 +1,4 @@
-with open('C:/Users/Mert/PycharmProjects/Algorithms-Stanford-Coursera/Course1/stanford-algs/testCases/course1/assignment2Inversions/input_dgrcode_64_100000.txt') as f:
+with open('PATH_TO_FILE') as f:
     lines = [int(x) for x in f.read().splitlines()]
 
 
